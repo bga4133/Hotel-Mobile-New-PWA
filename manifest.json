@@ -1,0 +1,19 @@
+{
+    "name":"Hotel Azor",
+    "short_name":"Azor Hoteles",
+    "description":"Versión mobile de hotel Azor",
+    "background_color":"#2b2e34",
+    "theme_color":"#000",
+    "orientation":"portrait",
+    "display":"standalone",
+    "start_url":"./?utm=homescreen",
+    "scope":"./",
+    "lang":"es-co",
+    "icons":[
+        {
+            "src":"./img/logo.png",
+            "sizes":"190x190",
+            "type":"image/png"
+        }
+    ]
+}
